@@ -40,7 +40,6 @@ def main():
 
     translate = translate_text(post)
 
-
     print(translate)
 
 
